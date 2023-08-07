@@ -1,8 +1,8 @@
-**********Bash Script************************
+*********** Bash Script Challange **************
 
 Write a script to get the muliple occurances of IP address for the inpu_ip.dat files and give the count of IP address
 
-**********Output**************
+*********** Steps to Follow ******************
 Divide the code into sub-part
 1. Check whethere input file is present or not
 2. To create a array for the Input
