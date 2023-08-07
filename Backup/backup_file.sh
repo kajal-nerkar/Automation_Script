@@ -2,7 +2,7 @@
 
 #create a function to take a backup of the file
 
-function backup() {
+backup() {
     #create a backup folder
     mkdir Backup
     currnet_date = $date
